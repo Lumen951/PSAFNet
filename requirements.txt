@@ -4,3 +4,17 @@ scipy==1.7.3
 torch==2.9.1
 torchinfo==1.8.0
 tqdm==4.65.0
+
+# EDF file reading
+mne>=1.0.0
+pyedflib>=0.1.30
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Data analysis
+pandas>=1.4.0
