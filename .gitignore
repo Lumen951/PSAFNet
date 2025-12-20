@@ -1,1 +1,10 @@
 data/*
+# Large files and research papers
+*.pdf
+docs/develop/
+*.pth
+*.mat
+experiments/
+results/
+__pycache__/
+*.pyc
